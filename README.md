@@ -105,7 +105,7 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-[![Dashboard Preview](Dashboard_Screenshot.png)](https://github.com/Mohd-khushal/-MONDAY--COFFEE-SALES-PERFORMANCE-/blob/main/Dashboard_Screenshot%20.png)
+[![Dashboard Preview](Coffee Dashboard.png](https://github.com/Mohd-khushal/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Dashboard.png)
 
 ---
 
@@ -140,5 +140,5 @@ If you found this project helpful, give it a **star**! ⭐
 ### 🔗 Quick Links
 
 - [Dataset](Coffee_Sales_Data.csv)
-- [Dashboard](https://1drv.ms/x/c/d332f056299dd86a/IQD-7TilRvxXSLgzMqksUzswARdMkqc4rQ33m6Ht9xqjb6Y?e=0Tw30I)
-- [Screenshot](https://github.com/Mohd-khushal/-MONDAY--COFFEE-SALES-PERFORMANCE-/blob/main/Dashboard_Screenshot%20.png)
+- [Dashboard](https://github.com/Mohd-khushal/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Dashboard.png)
+- [Screenshot](https://github.com/Mohd-khushal/Coffee-Shop-Sales-Dashboard/blob/main/Coffee%20Pivot%20Table%20.png)
